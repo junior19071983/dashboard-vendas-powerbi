@@ -15,7 +15,7 @@ Dashboard profissional desenvolvido com Power BI e arquitetura Star Schema para 
 Arquitetura dimensional otimizada com tabela fato e dimensões relacionadas.
 
 ### Star Schema - Parte 1
-![Star Schema](star-schema1.png)
+![Star Schema](star-schema.png)
 
 ### Star Schema - Parte 2  
 ![Star Schema](star-schema2.png)
